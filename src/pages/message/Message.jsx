@@ -41,6 +41,8 @@ const Message = () => {
     e.target[0].value = "";
   };
 
+  console.log('users', users)
+
   return (
     <div className="message">
       <div className="container">
