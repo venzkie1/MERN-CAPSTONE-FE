@@ -60,14 +60,14 @@ export const cards = [
     {
       id: 2,
       img: "https://images.pexels.com/photos/7661590/pexels-photo-7661590.jpeg?auto=compress&cs=tinysrgb&w=600",
-      pp: "https://scontent.fceb1-2.fna.fbcdn.net/v/t39.30808-6/299373563_1419837628522059_4945817319703693985_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH1hm6lvOJB61AjE8hWcmqcOgt3DkaslOg6C3cORqyU6GdBC8N5gpAtQJa3gxUt7Jp3xMKGgQJDUxEXF6f-SMn1&_nc_ohc=dd2fWt6N64QAX9tkoIu&_nc_ht=scontent.fceb1-2.fna&oh=00_AfDrFPWJVv6pmKf-e0lkp5R6-5zYx8jU0NPSi4BXFd38rQ&oe=64406CDF",
+      pp: "https://scontent.fceb5-1.fna.fbcdn.net/v/t39.30808-6/299373563_1419837628522059_4945817319703693985_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeH1hm6lvOJB61AjE8hWcmqcOgt3DkaslOg6C3cORqyU6GdBC8N5gpAtQJa3gxUt7Jp3xMKGgQJDUxEXF6f-SMn1&_nc_ohc=w8C0ehp6gJUAX9hqOQN&_nc_ht=scontent.fceb5-1.fna&oh=00_AfDK9CLcXtUITpbs1f408i9BsMUlSOlORZwGVH-c8E6TPw&oe=6452391F",
       cat: "Logo Design",
       username: "Arien Membreve",
     },
     {
       id: 3,
       img: "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      pp: "https://scontent.fceb1-2.fna.fbcdn.net/v/t39.30808-6/322829751_495502569144774_4967593772048522064_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFkAcwLKHpXl9Jlov9pyOg3ehOKYhgTvlZ6E4piGBO-VhMSqy9tSbzKLvIEtgqQcnEGHRu0B93OJxWoVE_IAZDu&_nc_ohc=ZBZZJJEoV6UAX-7z5Tv&_nc_ht=scontent.fceb1-2.fna&oh=00_AfD2RnrZ2MM8wlnG6ZavYNo8DPDJKA_jH9FsXp7tLqWLRA&oe=64406C2F",
+      pp: "https://scontent.fceb5-1.fna.fbcdn.net/v/t39.30808-6/322829751_495502569144774_4967593772048522064_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFkAcwLKHpXl9Jlov9pyOg3ehOKYhgTvlZ6E4piGBO-VhMSqy9tSbzKLvIEtgqQcnEGHRu0B93OJxWoVE_IAZDu&_nc_ohc=j1NWs-0nd-cAX-lyNqR&_nc_ht=scontent.fceb5-1.fna&oh=00_AfBD-L4nbNUPUXdyz9WfLhzMQbh_CIDTIgvgWs4C9zxAow&oe=6452386F",
       cat: "Machine Learning",
       username: "Kevin Membreve",
     },

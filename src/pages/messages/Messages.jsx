@@ -30,7 +30,6 @@ const Messages = () => {
           newRequest.get(`/users/${currentUser.isSeller ? c.buyerId : c.sellerId}`)
             .then((res) => {
               // const users = responses.map((r) => r.data);
-              console.log('res-----', res)
               setUser(res.data);
             })}
         )

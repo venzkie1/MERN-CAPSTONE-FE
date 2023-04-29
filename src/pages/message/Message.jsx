@@ -40,9 +40,7 @@ const Message = () => {
     });
     e.target[0].value = "";
   };
-
-  console.log('users', users)
-
+  
   return (
     <div className="message">
       <div className="container">
@@ -96,7 +94,7 @@ const Message = () => {
         )}
         <hr />
         <form className="write" onSubmit={handleSubmit}>
-          <textarea type="text" placeholder="write a message" />
+          <textarea type="text" placeholder="write a message"/>
           <button type="submit">Send</button>
         </form>
       </div>

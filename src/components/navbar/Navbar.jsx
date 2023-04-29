@@ -45,7 +45,9 @@ function Navbar() {
           </Link>
         </div>
         <div className="links">
-          <span>Origin Swift Business</span>
+          <Link className="link" to="/gigs?cat=design">
+            <span>Browse Freelancer Projects</span>
+          </Link>
           <span>Explore</span>
           <span>English</span>
           {!currentUser?.isSeller && <span>Become a Seller</span>}
